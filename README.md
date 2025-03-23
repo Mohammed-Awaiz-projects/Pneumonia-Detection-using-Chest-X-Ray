@@ -24,4 +24,4 @@ Finally, the model was tested with the validatiion data and the the detections w
 
 
 
-Model link: https://drive.google.com/file/d/1-9MhGzag-4xIEB7cYdl7Q1l6SYfbyqoD/view?usp=sharing
+Model link: https://drive.google.com/file/d/17T53edBntWE2-P9nHF5LDItj0sfuNDs-/view?usp=drive_link
